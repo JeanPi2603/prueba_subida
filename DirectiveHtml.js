@@ -1,5 +1,7 @@
 let DirectiveHtml = {
 
+    /**comentando */
+
     data() {
         return {
             text: 'Directiva v-html',
